@@ -20,7 +20,10 @@ psssst i recommend with a MINIMUM of 20 characters (that's what you have a passw
 
 <h1> Will the program be developed? </h1>
 
-*Well, of course! I have a ton of ideas to improve the program :p 
+*Well, of course! I have a ton of ideas to improve the program :p Programming is fun and learning for me
+
+--- --- --- --- --- --- --- --- --- --- --- --- --- 
+**And finally, thank you very much if you use my software, in the future will prepare an email for feedback [maybe with more difficult programs].**
 
 
 
