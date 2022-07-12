@@ -26,17 +26,17 @@ void password() {
 
 		std::cout << char(rand() % 95 + 32); //drawing from an ASCII array
 
-
 	}
 	
 	std::cout << "\n--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- \n\nSave your password in a secure location such as keepass:\n\nkeepass:https://keepass.info/\n\nkeepassxc (I recommend, it's a regular keepass but with a better gui):https://keepassxc.org/ \n\n";
 
 	system("pause");
+	system("cls");
+	return password();
 }
 
 
 int main() {
 	visual();
 	password();
-
 }
